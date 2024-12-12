@@ -1,6 +1,6 @@
 # Paolo Singson's Portfolio
 
-I am going to Cal State Fullerton, I am a computer science major, I plan to graduate in 2028.
+I am going to Cal State Fullerton, I am a computer science major, and I plan to graduate in 2028.
 
 ## Favorite CPSC 120L Labs
 
